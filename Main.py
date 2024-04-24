@@ -28,7 +28,8 @@ def fazerSaque(valor):
     return total_conta  
 
 def extrato():
-    print("\n\n#### CONTA DIGITAL ####")
+    print("\n\n##############################################################################################")
+    print("\n#### CONTA DIGITAL ####")
     print("R$",total_conta)
     print("\n## Ações Realizadas ##")
     print("\n# Saques #")
@@ -37,6 +38,7 @@ def extrato():
     print("\n# Depositos #")
     for val in lista_de_depositos:
         print("R$",val)
+    print("\n###############################################################################################")
           
 while limite_de_saque != 0:
     interFace()
