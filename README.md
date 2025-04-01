@@ -1,6 +1,6 @@
 # 🏦 Sistema Bancário em Python
 
-Bem-vindo ao **Sistema Bancário**! Este projeto é uma aplicação simples feita com o intuito de formentar meu conhecimento na estruturação da linguagem \*\*Python\*\*. Ademais, o projeto permite gerenciamento de contas bancárias, operações como depósito, saque, extrato e criação de contas.
+Bem-vindo ao **Sistema Bancário**! Este projeto é uma aplicação simples feita com o intuito de formentar meu conhecimento na estruturação da linguagem **Python**. Ademais, o projeto permite gerenciamento de contas bancárias, operações como depósito, saque, extrato e criação de contas.
 
 ## 📌 Funcionalidades
 
